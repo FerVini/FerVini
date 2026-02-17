@@ -52,7 +52,7 @@ Dashboard para visualização de criptomoedas com **consumo de API externa** e r
 
 ### 🌍 Viagens Landing Page
 Landing page responsiva focada em **HTML semântico**, **CSS organizado** e layout moderno.  
-🔗 https://github.com/FerVini/viagens-landing-page
+🔗 https://github.com/FerVini/viagens--landing-page
 
 ---
 
