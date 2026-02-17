@@ -1,86 +1,58 @@
-# 👋 Fernando Vinicius | Desenvolvedor Front-End
+<h1 align="center">Fernando Vinicius</h1>
+<h3 align="center">Desenvolvedor Front-End | JavaScript • React</h3>
 
-Desenvolvedor **Front-End** com foco em **JavaScript e React**, orientado à construção de aplicações reais, organizadas e escaláveis.  
-Tenho forte preocupação com **arquitetura de projetos**, **boas práticas**, **clareza de código** e **experiência do usuário**.
+<p align="center">
+  <a href="https://github.com/FerVini">
+    <img src="https://img.shields.io/badge/GitHub-FerVini-181717?logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://fervini.github.io/Curriculo/">
+    <img src="https://img.shields.io/badge/Currículo-Online-2E7D32" />
+  </a>
+</p>
 
-🎯 Atualmente busco oportunidade como **Estagiário ou Desenvolvedor Front-End Júnior**, onde eu possa evoluir tecnicamente e gerar impacto desde o primeiro dia.
-
----
-
-## 🚀 Stack & Tecnologias
-
-**Linguagens**
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-
-**Frameworks & Bibliotecas**
-- React
-- Vite
-
-**Estilização**
-- CSS Modules
-- Styled Components
-- Bootstrap
-
-**Ferramentas & Conceitos**
-- Git & GitHub
-- Consumo de APIs REST
-- Componentização
-- Organização e modelagem de estado
-- Lógica de negócio no front-end
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-Front--End-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-Markup-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-Styles-1572B6?logo=css3&logoColor=white" />
+</p>
 
 ---
 
-## 🧠 Como eu penso código
+## 🎯 Objetivo Profissional
 
-- Código limpo, legível e previsível
-- Componentes reutilizáveis e bem isolados
-- Separação clara entre UI, lógica e regras de negócio
-- Estrutura de projeto pensada para evolução
-- Documentação clara (README como parte do projeto)
-- Aprendizado contínuo e refatoração consciente
+Desenvolvedor **Front-End** focado em **JavaScript e React**, com experiência prática na construção de **aplicações reais**, organizadas e escaláveis.
+
+📌 Busco oportunidade como **Estagiário ou Desenvolvedor Front-End Júnior**, atuando com times que valorizam **boas práticas**, **clareza de código** e **evolução contínua**.
+
+---
+
+## 🚀 Stack Principal
+
+- **Linguagens:** JavaScript (ES6+), HTML5, CSS3  
+- **Framework / Biblioteca:** React  
+- **Build & Tooling:** Vite  
+- **Estilização:** CSS Modules, Styled Components, Bootstrap  
+- **Outros:** Git & GitHub, consumo de APIs REST, organização de estado
 
 ---
 
 ## 📂 Projetos em Destaque
 
 ### 💰 Personal Finance App
-Aplicação web para controle financeiro pessoal, desenvolvida com foco em **regras de negócio no front-end**, organização de estado e componentização.
-
-**Destaques técnicos**
-- React + JavaScript
-- Modelagem de dados e regras financeiras
-- Componentes reutilizáveis
-- Estrutura escalável
-
-🔗 Repositório: https://github.com/FerVini/personal-finance-app
-
----
+Aplicação de controle financeiro pessoal com foco em **regras de negócio**, **organização de estado** e **arquitetura React**.  
+🔗 https://github.com/FerVini/personal-finance-app
 
 ### 📊 Crypto Dashboard
-Dashboard para visualização de dados de criptomoedas, consumindo **API externa** e renderizando dados de forma dinâmica.
-
-**Destaques técnicos**
-- Consumo de API REST
-- Controle de estados assíncronos
-- Renderização condicional
-- Organização de lógica
-
-🔗 Repositório: https://github.com/FerVini/crypto-dashboard
-
----
+Dashboard para visualização de criptomoedas com **consumo de API externa** e renderização dinâmica.  
+🔗 https://github.com/FerVini/crypto-dashboard
 
 ### 🌍 Viagens Landing Page
-Landing page responsiva com foco em **HTML semântico**, organização de CSS e boas práticas de layout.
-
-**Destaques técnicos**
-- HTML5 semântico
-- CSS organizado
-- Responsividade
-- Atenção a detalhes visuais
-
-🔗 Repositório: https://github.com/FerVini/viagens-landing-page
+Landing page responsiva focada em **HTML semântico**, **CSS organizado** e layout moderno.  
+🔗 https://github.com/FerVini/viagens-landing-page
 
 ---
 
@@ -88,18 +60,10 @@ Landing page responsiva com foco em **HTML semântico**, organização de CSS e 
 
 - Arquitetura de projetos React
 - Organização de estado e regras de negócio
-- Projetos com maior complexidade técnica
 - Boas práticas de front-end moderno
+- Projetos com maior complexidade técnica
 - Preparação para entrevistas técnicas
 
 ---
 
-## 📫 Onde me encontrar
-
-- 💼 LinkedIn: https://www.linkedin.com/in/fervini/
-- 📄 Currículo: https://fervini.github.io/Curriculo/
-
----
-
-⭐ **Sinta-se à vontade para explorar meus repositórios.  
-Estou constantemente evoluindo e aprimorando meus projetos.**
+⭐ *Perfil focado em evolução contínua, projetos bem estruturados e código de qualidade.*
