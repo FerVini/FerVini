@@ -5,7 +5,7 @@
   <a href="https://github.com/FerVini">
     <img src="https://img.shields.io/badge/GitHub-FerVini-181717?logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI">
+  <a href="https://www.linkedin.com/in/fervini">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://fervini.github.io/Curriculo/">
